@@ -7,3 +7,11 @@ C:\Users\Mikkel\Desktop\AzureEmulator R2\AzureEmulator R2\AzureEmulator R2\bin\D
 C:\Users\Mikkel\Desktop\AzureEmulator R2\AzureEmulator R2\AzureEmulator R2\bin\Debug\AzureEmulator.pdb
 C:\Users\Mikkel\Desktop\AzureEmulator R2\AzureEmulator R2\AzureEmulator R2\bin\Debug\MySql.Data.dll
 C:\Users\Mikkel\Desktop\AzureEmulator R2\AzureEmulator R2\AzureEmulator R2\obj\Debug\AzureEmulator.pdb
+C:\Users\Mikkel\Zazlak\obj\Debug\ZazlakEmulator.csprojResolveAssemblyReference.cache
+C:\Users\Mikkel\Zazlak\obj\Debug\ZazlakEmulator.csproj.GenerateResource.Cache
+C:\Users\Mikkel\Zazlak\bin\Debug\Zazlak 1.0.exe.config
+C:\Users\Mikkel\Zazlak\bin\Debug\Zazlak 1.0.exe
+C:\Users\Mikkel\Zazlak\bin\Debug\Zazlak 1.0.pdb
+C:\Users\Mikkel\Zazlak\obj\Debug\Zazlak.Properties.Resources.resources
+C:\Users\Mikkel\Zazlak\obj\Debug\Zazlak 1.0.exe
+C:\Users\Mikkel\Zazlak\obj\Debug\Zazlak 1.0.pdb

@@ -39,7 +39,7 @@ namespace Zazlak
     / /____/ ___ |/ __/| |/ ___ |  _ (       | RELEASE63-201205022303-217664704
    (_______)_____(_____)\_)_____|_| \_)      |", ConsoleColor.White);
             Out.WritePlain("                                             |", ConsoleColor.White);
-            Out.WritePlain("      ------------------------------------------------------------------      ", ConsoleColor.White);
+            Out.WritePlain("  ----------------------------------------------------------------------------", ConsoleColor.White);
             Out.WritePlain("");
             
 
@@ -57,19 +57,19 @@ namespace Zazlak
 
             try
             {
-                Config = new ConfigurationData("User.Config.ini");
-                Host = Config.data["MySQL->Host"];
-                Port = Convert.ToUInt32(Config.data["MySQL->Port"]);
-                User = Config.data["MySQL->User"];
-                Pass = Config.data["MySQL->Pass"];
-                DbName = Config.data["MySQL->DbName"];
+                Config = new ConfigurationData("config.conf");
+                Host = Config.data["db.host"];
+                Port = Convert.ToUInt32(Config.data["db.port"]);
+                User = Config.data["db.username"];
+                Pass = Config.data["db.password"];
+                DbName = Config.data["db.name"];
 
-                GamePort = Convert.ToInt32(Config.data["Game->Port"]);
-                ConnectionsLimits = Convert.ToInt32(Config.data["Game->LimitUsers"]);
+                GamePort = Convert.ToInt32(Config.data["game.tcp.port"]);
+                ConnectionsLimits = Convert.ToInt32(Config.data["game.tcp.limitusers"]);
             }
             catch (Exception Error)
             {
-                Out.WriteLine(Error.Message, ConsoleColor.DarkRed, "   ", "Zazlak.Main");
+                Out.WritePlain("[Zazlak] " + Error.Message, ConsoleColor.DarkRed);
                 Console.ReadKey();
                 Environment.Exit(0);
             }

@@ -6,8 +6,8 @@
     <ProjectGuid>{13C58533-16AD-48FA-8EC1-4379BB98A896}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Azure</RootNamespace>
-    <AssemblyName>AzureEmulator</AssemblyName>
+    <RootNamespace>Zazlak</RootNamespace>
+    <AssemblyName>Zazlak 1.0</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>
@@ -53,9 +53,9 @@
     <StartupObject>Zazlak.Init</StartupObject>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="MySql.Data, Version=6.4.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+    <Reference Include="MySql.Data, Version=6.5.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\System\MySql.Data.dll</HintPath>
+      <HintPath>..\..\..\Program Files\MySQL\MySQL Connector Net 6.5.4\Assemblies\v4.0\MySql.Data.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -107,7 +107,6 @@
     <Compile Include="Sockets\connectionHelper.cs" />
     <Compile Include="Sockets\gameConnection.cs" />
     <Compile Include="Sockets\gameSocketServer.cs" />
-    <Compile Include="Sockets\musConnection.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
