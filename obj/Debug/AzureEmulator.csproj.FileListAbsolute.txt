@@ -1,0 +1,16 @@
+c:\users\xdr\documents\visual studio 11\Projects\AzureEmulator R2\AzureEmulator R2\obj\Debug\AzureEmulator.csprojResolveAssemblyReference.cache
+c:\users\xdr\documents\visual studio 11\Projects\AzureEmulator R2\AzureEmulator R2\obj\Debug\AzureEmulator.csproj.GenerateResource.Cache
+c:\users\xdr\documents\visual studio 11\Projects\AzureEmulator R2\AzureEmulator R2\obj\Debug\Azure.Properties.Resources.resources
+c:\users\xdr\documents\visual studio 11\Projects\AzureEmulator R2\AzureEmulator R2\bin\Debug\AzureEmulator.exe
+c:\users\xdr\documents\visual studio 11\Projects\AzureEmulator R2\AzureEmulator R2\bin\Debug\AzureEmulator.pdb
+c:\users\xdr\documents\visual studio 11\Projects\AzureEmulator R2\AzureEmulator R2\obj\Debug\AzureEmulator.exe
+c:\users\xdr\documents\visual studio 11\Projects\AzureEmulator R2\AzureEmulator R2\obj\Debug\AzureEmulator.pdb
+C:\Users\Mikkel\Desktop\AzureEmulator R2\AzureEmulator R2\AzureEmulator R2\obj\Debug\AzureEmulator.exe
+C:\Users\Mikkel\Desktop\AzureEmulator R2\AzureEmulator R2\AzureEmulator R2\obj\Debug\AzureEmulator.pdb
+C:\Users\Mikkel\Desktop\AzureEmulator R2\AzureEmulator R2\AzureEmulator R2\bin\Debug\AzureEmulator.exe.config
+C:\Users\Mikkel\Desktop\AzureEmulator R2\AzureEmulator R2\AzureEmulator R2\bin\Debug\AzureEmulator.exe
+C:\Users\Mikkel\Desktop\AzureEmulator R2\AzureEmulator R2\AzureEmulator R2\bin\Debug\AzureEmulator.pdb
+C:\Users\Mikkel\Desktop\AzureEmulator R2\AzureEmulator R2\AzureEmulator R2\bin\Debug\MySql.Data.dll
+C:\Users\Mikkel\Desktop\AzureEmulator R2\AzureEmulator R2\AzureEmulator R2\obj\Debug\AzureEmulator.csprojResolveAssemblyReference.cache
+C:\Users\Mikkel\Desktop\AzureEmulator R2\AzureEmulator R2\AzureEmulator R2\obj\Debug\Azure.Properties.Resources.resources
+C:\Users\Mikkel\Desktop\AzureEmulator R2\AzureEmulator R2\AzureEmulator R2\obj\Debug\AzureEmulator.csproj.GenerateResource.Cache
