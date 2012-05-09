@@ -52,6 +52,13 @@ namespace Zazlak.Habbo
 
         }
 
+        internal void Ping()
+        {
+            var Pings = new ServerMessage(1768);
+            Pings.AppendInt32(1);
+            this.User.sendPacket(Pings);
+        }
+
         internal void Stream()
         {
             ServerMessage Streaming = new ServerMessage(1085);
