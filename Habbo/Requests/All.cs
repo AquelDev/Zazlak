@@ -26,7 +26,6 @@ namespace Zazlak.Habbo.Requests
             RequestPacket[3108] = new RequestPackets(User.HabboUser.Chatting);
             RequestPacket[11037] = new RequestPackets(User.HabboUser.Stream);
             RequestPacket[167] = new RequestPackets(User.HabboUser.Ping);
-            
 
             //Catalog
             RequestPacket[3903] = new RequestPackets(User.HabboCatalog.InitCatalog); // 30/12/2011
